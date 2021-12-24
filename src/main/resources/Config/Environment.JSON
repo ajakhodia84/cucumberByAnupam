@@ -1,0 +1,18 @@
+[
+	{
+		"environment": "devmergecc",
+		"executionflag":false
+	},
+
+	{
+		"environment": "devmerge",
+		"executionflag":false
+	},
+
+	{
+		"environment": "val",
+		"executionflag":true
+	}
+
+
+]
